@@ -1,0 +1,1579 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED_RABG D-LED33
+U 1 1 5EDBF728
+P 2200 5150
+F 0 "D-LED33" H 2200 5647 50  0000 C CNN
+F 1 "LED_RABG" H 2200 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 2200 5100 50  0001 C CNN
+F 3 "~" H 2200 5100 50  0001 C CNN
+	1    2200 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5150 1850 5150
+Wire Wire Line
+	1850 5150 1850 4800
+Wire Wire Line
+	2000 4950 1950 4950
+Wire Wire Line
+	1950 4950 1950 4700
+Wire Wire Line
+	2000 5350 1750 5350
+Wire Wire Line
+	1750 5350 1750 4650
+$Comp
+L Device:LED_RABG D-LED34
+U 1 1 5EDF5CF4
+P 3050 5150
+F 0 "D-LED34" H 3050 5647 50  0000 C CNN
+F 1 "LED_RABG" H 3050 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3050 5100 50  0001 C CNN
+F 3 "~" H 3050 5100 50  0001 C CNN
+	1    3050 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 5150 2700 5150
+Wire Wire Line
+	2700 5150 2700 4800
+Wire Wire Line
+	2850 4950 2800 4950
+Wire Wire Line
+	2800 4950 2800 4700
+Wire Wire Line
+	2850 5350 2600 5350
+Wire Wire Line
+	2600 5350 2600 4650
+$Comp
+L Device:LED_RABG D-LED35
+U 1 1 5EE18D59
+P 3900 5150
+F 0 "D-LED35" H 3900 5647 50  0000 C CNN
+F 1 "LED_RABG" H 3900 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3900 5100 50  0001 C CNN
+F 3 "~" H 3900 5100 50  0001 C CNN
+	1    3900 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 5150 3550 5150
+Wire Wire Line
+	3550 5150 3550 4800
+Wire Wire Line
+	3700 4950 3650 4950
+Wire Wire Line
+	3650 4950 3650 4700
+Wire Wire Line
+	3700 5350 3450 5350
+Wire Wire Line
+	3450 5350 3450 4650
+$Comp
+L Device:LED_RABG D-LED36
+U 1 1 5EE18D8A
+P 4750 5150
+F 0 "D-LED36" H 4750 5647 50  0000 C CNN
+F 1 "LED_RABG" H 4750 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 4750 5100 50  0001 C CNN
+F 3 "~" H 4750 5100 50  0001 C CNN
+	1    4750 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4550 5150 4400 5150
+Wire Wire Line
+	4400 5150 4400 4800
+Wire Wire Line
+	4550 4950 4500 4950
+Wire Wire Line
+	4500 4950 4500 4700
+Wire Wire Line
+	4550 5350 4300 5350
+Wire Wire Line
+	4300 5350 4300 4650
+$Comp
+L Device:LED_RABG D-LED37
+U 1 1 5EE52D79
+P 5600 5150
+F 0 "D-LED37" H 5600 5647 50  0000 C CNN
+F 1 "LED_RABG" H 5600 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 5600 5100 50  0001 C CNN
+F 3 "~" H 5600 5100 50  0001 C CNN
+	1    5600 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 5150 5250 5150
+Wire Wire Line
+	5250 5150 5250 4800
+Wire Wire Line
+	5400 4950 5350 4950
+Wire Wire Line
+	5350 4950 5350 4700
+Wire Wire Line
+	5400 5350 5150 5350
+Wire Wire Line
+	5150 5350 5150 4650
+$Comp
+L Device:LED_RABG D-LED38
+U 1 1 5EE52DAA
+P 6450 5150
+F 0 "D-LED38" H 6450 5647 50  0000 C CNN
+F 1 "LED_RABG" H 6450 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 6450 5100 50  0001 C CNN
+F 3 "~" H 6450 5100 50  0001 C CNN
+	1    6450 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 5150 6100 5150
+Wire Wire Line
+	6100 5150 6100 4800
+Wire Wire Line
+	6250 4950 6200 4950
+Wire Wire Line
+	6200 4950 6200 4700
+Wire Wire Line
+	6250 5350 6000 5350
+Wire Wire Line
+	6000 5350 6000 4650
+$Comp
+L Device:LED_RABG D-LED39
+U 1 1 5EE52DDB
+P 7300 5150
+F 0 "D-LED39" H 7300 5647 50  0000 C CNN
+F 1 "LED_RABG" H 7300 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 7300 5100 50  0001 C CNN
+F 3 "~" H 7300 5100 50  0001 C CNN
+	1    7300 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 5150 6950 5150
+Wire Wire Line
+	6950 5150 6950 4800
+Wire Wire Line
+	7100 4950 7050 4950
+Wire Wire Line
+	7050 4950 7050 4700
+Wire Wire Line
+	7100 5350 6850 5350
+Wire Wire Line
+	6850 5350 6850 4650
+$Comp
+L Device:LED_RABG D-LED40
+U 1 1 5EE52E0C
+P 8150 5150
+F 0 "D-LED40" H 8150 5647 50  0000 C CNN
+F 1 "LED_RABG" H 8150 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 8150 5100 50  0001 C CNN
+F 3 "~" H 8150 5100 50  0001 C CNN
+	1    8150 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 5150 7800 5150
+Wire Wire Line
+	7800 5150 7800 4800
+Wire Wire Line
+	7950 4950 7900 4950
+Wire Wire Line
+	7900 4950 7900 4700
+Wire Wire Line
+	7950 5350 7700 5350
+Wire Wire Line
+	7700 5350 7700 4650
+$Comp
+L Device:LED_RABG D-LED41
+U 1 1 5E8E8212
+P 9000 5150
+F 0 "D-LED41" H 9000 5647 50  0000 C CNN
+F 1 "LED_RABG" H 9000 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9000 5100 50  0001 C CNN
+F 3 "~" H 9000 5100 50  0001 C CNN
+	1    9000 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 5150 8650 5150
+Wire Wire Line
+	8650 5150 8650 4800
+Wire Wire Line
+	8800 4950 8750 4950
+Wire Wire Line
+	8750 4950 8750 4700
+Wire Wire Line
+	8800 5350 8550 5350
+Wire Wire Line
+	8550 5350 8550 4650
+$Comp
+L Device:LED_RABG D-LED42
+U 1 1 5E8E8243
+P 9850 5150
+F 0 "D-LED42" H 9850 5647 50  0000 C CNN
+F 1 "LED_RABG" H 9850 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9850 5100 50  0001 C CNN
+F 3 "~" H 9850 5100 50  0001 C CNN
+	1    9850 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 5150 9500 5150
+Wire Wire Line
+	9500 5150 9500 4800
+Wire Wire Line
+	9650 4950 9600 4950
+Wire Wire Line
+	9600 4950 9600 4700
+Wire Wire Line
+	9650 5350 9400 5350
+Wire Wire Line
+	9400 5350 9400 4650
+$Comp
+L Device:LED_RABG D-LED43
+U 1 1 5E8E8274
+P 10700 5150
+F 0 "D-LED43" H 10700 5647 50  0000 C CNN
+F 1 "LED_RABG" H 10700 5556 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 10700 5100 50  0001 C CNN
+F 3 "~" H 10700 5100 50  0001 C CNN
+	1    10700 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10500 5150 10350 5150
+Wire Wire Line
+	10350 5150 10350 4800
+Wire Wire Line
+	10500 4950 10450 4950
+Wire Wire Line
+	10450 4950 10450 4700
+Wire Wire Line
+	10500 5350 10250 5350
+Wire Wire Line
+	10250 5350 10250 4650
+Wire Wire Line
+	1850 4800 2700 4800
+Connection ~ 2700 4800
+Wire Wire Line
+	2700 4800 3550 4800
+Connection ~ 3550 4800
+Wire Wire Line
+	3550 4800 4400 4800
+Connection ~ 4400 4800
+Wire Wire Line
+	4400 4800 5250 4800
+Connection ~ 5250 4800
+Wire Wire Line
+	5250 4800 6100 4800
+Connection ~ 6100 4800
+Wire Wire Line
+	6100 4800 6950 4800
+Connection ~ 6950 4800
+Wire Wire Line
+	6950 4800 7800 4800
+Connection ~ 7800 4800
+Wire Wire Line
+	7800 4800 8650 4800
+Connection ~ 8650 4800
+Wire Wire Line
+	8650 4800 9500 4800
+Connection ~ 9500 4800
+Wire Wire Line
+	9500 4800 10350 4800
+Wire Wire Line
+	1950 4700 2800 4700
+Connection ~ 2800 4700
+Wire Wire Line
+	2800 4700 3650 4700
+Connection ~ 3650 4700
+Wire Wire Line
+	3650 4700 4500 4700
+Connection ~ 4500 4700
+Wire Wire Line
+	4500 4700 5350 4700
+Connection ~ 5350 4700
+Wire Wire Line
+	5350 4700 6200 4700
+Connection ~ 6200 4700
+Wire Wire Line
+	6200 4700 7050 4700
+Connection ~ 7050 4700
+Wire Wire Line
+	7050 4700 7900 4700
+Connection ~ 7900 4700
+Wire Wire Line
+	7900 4700 8750 4700
+Connection ~ 8750 4700
+Wire Wire Line
+	8750 4700 9600 4700
+Connection ~ 9600 4700
+Wire Wire Line
+	9600 4700 10450 4700
+Wire Wire Line
+	10250 4650 9400 4650
+Connection ~ 2600 4650
+Wire Wire Line
+	2600 4650 1750 4650
+Connection ~ 3450 4650
+Wire Wire Line
+	3450 4650 2600 4650
+Connection ~ 4300 4650
+Wire Wire Line
+	4300 4650 3450 4650
+Connection ~ 5150 4650
+Wire Wire Line
+	5150 4650 4300 4650
+Connection ~ 6000 4650
+Wire Wire Line
+	6000 4650 5150 4650
+Connection ~ 6850 4650
+Wire Wire Line
+	6850 4650 6000 4650
+Connection ~ 7700 4650
+Wire Wire Line
+	7700 4650 6850 4650
+Connection ~ 8550 4650
+Wire Wire Line
+	8550 4650 7700 4650
+Connection ~ 9400 4650
+Wire Wire Line
+	9400 4650 8550 4650
+$Comp
+L Device:LED_RABG D-LED22
+U 1 1 5EA13DBE
+P 2200 4250
+F 0 "D-LED22" H 2200 4747 50  0000 C CNN
+F 1 "LED_RABG" H 2200 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 2200 4200 50  0001 C CNN
+F 3 "~" H 2200 4200 50  0001 C CNN
+	1    2200 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 4250 1850 4250
+Wire Wire Line
+	1850 4250 1850 3900
+Wire Wire Line
+	2000 4050 1950 4050
+Wire Wire Line
+	1950 4050 1950 3800
+Wire Wire Line
+	2000 4450 1750 4450
+Wire Wire Line
+	1750 4450 1750 3750
+$Comp
+L Device:LED_RABG D-LED23
+U 1 1 5EA13DCA
+P 3050 4250
+F 0 "D-LED23" H 3050 4747 50  0000 C CNN
+F 1 "LED_RABG" H 3050 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3050 4200 50  0001 C CNN
+F 3 "~" H 3050 4200 50  0001 C CNN
+	1    3050 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 4250 2700 4250
+Wire Wire Line
+	2700 4250 2700 3900
+Wire Wire Line
+	2850 4050 2800 4050
+Wire Wire Line
+	2800 4050 2800 3800
+Wire Wire Line
+	2850 4450 2600 4450
+Wire Wire Line
+	2600 4450 2600 3750
+$Comp
+L Device:LED_RABG D-LED24
+U 1 1 5EA13DD6
+P 3900 4250
+F 0 "D-LED24" H 3900 4747 50  0000 C CNN
+F 1 "LED_RABG" H 3900 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3900 4200 50  0001 C CNN
+F 3 "~" H 3900 4200 50  0001 C CNN
+	1    3900 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 4250 3550 4250
+Wire Wire Line
+	3550 4250 3550 3900
+Wire Wire Line
+	3700 4050 3650 4050
+Wire Wire Line
+	3650 4050 3650 3800
+Wire Wire Line
+	3700 4450 3450 4450
+Wire Wire Line
+	3450 4450 3450 3750
+$Comp
+L Device:LED_RABG D-LED25
+U 1 1 5EA13DE2
+P 4750 4250
+F 0 "D-LED25" H 4750 4747 50  0000 C CNN
+F 1 "LED_RABG" H 4750 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 4750 4200 50  0001 C CNN
+F 3 "~" H 4750 4200 50  0001 C CNN
+	1    4750 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4550 4250 4400 4250
+Wire Wire Line
+	4400 4250 4400 3900
+Wire Wire Line
+	4550 4050 4500 4050
+Wire Wire Line
+	4500 4050 4500 3800
+Wire Wire Line
+	4550 4450 4300 4450
+Wire Wire Line
+	4300 4450 4300 3750
+$Comp
+L Device:LED_RABG D-LED26
+U 1 1 5EA13DEE
+P 5600 4250
+F 0 "D-LED26" H 5600 4747 50  0000 C CNN
+F 1 "LED_RABG" H 5600 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 5600 4200 50  0001 C CNN
+F 3 "~" H 5600 4200 50  0001 C CNN
+	1    5600 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 4250 5250 4250
+Wire Wire Line
+	5250 4250 5250 3900
+Wire Wire Line
+	5400 4050 5350 4050
+Wire Wire Line
+	5350 4050 5350 3800
+Wire Wire Line
+	5400 4450 5150 4450
+Wire Wire Line
+	5150 4450 5150 3750
+$Comp
+L Device:LED_RABG D-LED27
+U 1 1 5EA13DFA
+P 6450 4250
+F 0 "D-LED27" H 6450 4747 50  0000 C CNN
+F 1 "LED_RABG" H 6450 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 6450 4200 50  0001 C CNN
+F 3 "~" H 6450 4200 50  0001 C CNN
+	1    6450 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 4250 6100 4250
+Wire Wire Line
+	6100 4250 6100 3900
+Wire Wire Line
+	6250 4050 6200 4050
+Wire Wire Line
+	6200 4050 6200 3800
+Wire Wire Line
+	6250 4450 6000 4450
+Wire Wire Line
+	6000 4450 6000 3750
+$Comp
+L Device:LED_RABG D-LED28
+U 1 1 5EA13E06
+P 7300 4250
+F 0 "D-LED28" H 7300 4747 50  0000 C CNN
+F 1 "LED_RABG" H 7300 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 7300 4200 50  0001 C CNN
+F 3 "~" H 7300 4200 50  0001 C CNN
+	1    7300 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 4250 6950 4250
+Wire Wire Line
+	6950 4250 6950 3900
+Wire Wire Line
+	7100 4050 7050 4050
+Wire Wire Line
+	7050 4050 7050 3800
+Wire Wire Line
+	7100 4450 6850 4450
+Wire Wire Line
+	6850 4450 6850 3750
+$Comp
+L Device:LED_RABG D-LED29
+U 1 1 5EA13E12
+P 8150 4250
+F 0 "D-LED29" H 8150 4747 50  0000 C CNN
+F 1 "LED_RABG" H 8150 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 8150 4200 50  0001 C CNN
+F 3 "~" H 8150 4200 50  0001 C CNN
+	1    8150 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 4250 7800 4250
+Wire Wire Line
+	7800 4250 7800 3900
+Wire Wire Line
+	7950 4050 7900 4050
+Wire Wire Line
+	7900 4050 7900 3800
+Wire Wire Line
+	7950 4450 7700 4450
+Wire Wire Line
+	7700 4450 7700 3750
+$Comp
+L Device:LED_RABG D-LED30
+U 1 1 5EA13E1E
+P 9000 4250
+F 0 "D-LED30" H 9000 4747 50  0000 C CNN
+F 1 "LED_RABG" H 9000 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9000 4200 50  0001 C CNN
+F 3 "~" H 9000 4200 50  0001 C CNN
+	1    9000 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 4250 8650 4250
+Wire Wire Line
+	8650 4250 8650 3900
+Wire Wire Line
+	8800 4050 8750 4050
+Wire Wire Line
+	8750 4050 8750 3800
+Wire Wire Line
+	8800 4450 8550 4450
+Wire Wire Line
+	8550 4450 8550 3750
+$Comp
+L Device:LED_RABG D-LED31
+U 1 1 5EA13E2A
+P 9850 4250
+F 0 "D-LED31" H 9850 4747 50  0000 C CNN
+F 1 "LED_RABG" H 9850 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9850 4200 50  0001 C CNN
+F 3 "~" H 9850 4200 50  0001 C CNN
+	1    9850 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 4250 9500 4250
+Wire Wire Line
+	9500 4250 9500 3900
+Wire Wire Line
+	9650 4050 9600 4050
+Wire Wire Line
+	9600 4050 9600 3800
+Wire Wire Line
+	9650 4450 9400 4450
+Wire Wire Line
+	9400 4450 9400 3750
+$Comp
+L Device:LED_RABG D-LED32
+U 1 1 5EA13E36
+P 10700 4250
+F 0 "D-LED32" H 10700 4747 50  0000 C CNN
+F 1 "LED_RABG" H 10700 4656 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 10700 4200 50  0001 C CNN
+F 3 "~" H 10700 4200 50  0001 C CNN
+	1    10700 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10500 4250 10350 4250
+Wire Wire Line
+	10350 4250 10350 3900
+Wire Wire Line
+	10500 4050 10450 4050
+Wire Wire Line
+	10450 4050 10450 3800
+Wire Wire Line
+	10500 4450 10250 4450
+Wire Wire Line
+	10250 4450 10250 3750
+Wire Wire Line
+	1300 3000 1850 3000
+Wire Wire Line
+	1850 3900 2700 3900
+Connection ~ 2700 3900
+Wire Wire Line
+	2700 3900 3550 3900
+Connection ~ 3550 3900
+Wire Wire Line
+	3550 3900 4400 3900
+Connection ~ 4400 3900
+Wire Wire Line
+	4400 3900 5250 3900
+Connection ~ 5250 3900
+Wire Wire Line
+	5250 3900 6100 3900
+Connection ~ 6100 3900
+Wire Wire Line
+	6100 3900 6950 3900
+Connection ~ 6950 3900
+Wire Wire Line
+	6950 3900 7800 3900
+Connection ~ 7800 3900
+Wire Wire Line
+	7800 3900 8650 3900
+Connection ~ 8650 3900
+Wire Wire Line
+	8650 3900 9500 3900
+Connection ~ 9500 3900
+Wire Wire Line
+	9500 3900 10350 3900
+Wire Wire Line
+	1300 2900 1950 2900
+Wire Wire Line
+	1950 3800 2800 3800
+Connection ~ 2800 3800
+Wire Wire Line
+	2800 3800 3650 3800
+Connection ~ 3650 3800
+Wire Wire Line
+	3650 3800 4500 3800
+Connection ~ 4500 3800
+Wire Wire Line
+	4500 3800 5350 3800
+Connection ~ 5350 3800
+Wire Wire Line
+	5350 3800 6200 3800
+Connection ~ 6200 3800
+Wire Wire Line
+	6200 3800 7050 3800
+Connection ~ 7050 3800
+Wire Wire Line
+	7050 3800 7900 3800
+Connection ~ 7900 3800
+Wire Wire Line
+	7900 3800 8750 3800
+Connection ~ 8750 3800
+Wire Wire Line
+	8750 3800 9600 3800
+Connection ~ 9600 3800
+Wire Wire Line
+	9600 3800 10450 3800
+Wire Wire Line
+	10250 3750 9400 3750
+Wire Wire Line
+	1750 2850 1300 2850
+Connection ~ 2600 3750
+Wire Wire Line
+	2600 3750 1750 3750
+Connection ~ 3450 3750
+Wire Wire Line
+	3450 3750 2600 3750
+Connection ~ 4300 3750
+Wire Wire Line
+	4300 3750 3450 3750
+Connection ~ 5150 3750
+Wire Wire Line
+	5150 3750 4300 3750
+Connection ~ 6000 3750
+Wire Wire Line
+	6000 3750 5150 3750
+Connection ~ 6850 3750
+Wire Wire Line
+	6850 3750 6000 3750
+Connection ~ 7700 3750
+Wire Wire Line
+	7700 3750 6850 3750
+Connection ~ 8550 3750
+Wire Wire Line
+	8550 3750 7700 3750
+Connection ~ 9400 3750
+Wire Wire Line
+	9400 3750 8550 3750
+$Comp
+L Device:LED_RABG D-LED11
+U 1 1 5EA2BEA4
+P 2200 3350
+F 0 "D-LED11" H 2200 3847 50  0000 C CNN
+F 1 "LED_RABG" H 2200 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 2200 3300 50  0001 C CNN
+F 3 "~" H 2200 3300 50  0001 C CNN
+	1    2200 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 3350 1850 3350
+Wire Wire Line
+	1850 3350 1850 3000
+Wire Wire Line
+	2000 3150 1950 3150
+Wire Wire Line
+	1950 3150 1950 2900
+Wire Wire Line
+	2000 3550 1750 3550
+Wire Wire Line
+	1750 3550 1750 2850
+$Comp
+L Device:LED_RABG D-LED12
+U 1 1 5EA2BEB0
+P 3050 3350
+F 0 "D-LED12" H 3050 3847 50  0000 C CNN
+F 1 "LED_RABG" H 3050 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3050 3300 50  0001 C CNN
+F 3 "~" H 3050 3300 50  0001 C CNN
+	1    3050 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 3350 2700 3350
+Wire Wire Line
+	2700 3350 2700 3000
+Wire Wire Line
+	2850 3150 2800 3150
+Wire Wire Line
+	2800 3150 2800 2900
+Wire Wire Line
+	2850 3550 2600 3550
+Wire Wire Line
+	2600 3550 2600 2850
+$Comp
+L Device:LED_RABG D-LED13
+U 1 1 5EA2BEBC
+P 3900 3350
+F 0 "D-LED13" H 3900 3847 50  0000 C CNN
+F 1 "LED_RABG" H 3900 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3900 3300 50  0001 C CNN
+F 3 "~" H 3900 3300 50  0001 C CNN
+	1    3900 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 3350 3550 3350
+Wire Wire Line
+	3550 3350 3550 3000
+Wire Wire Line
+	3700 3150 3650 3150
+Wire Wire Line
+	3650 3150 3650 2900
+Wire Wire Line
+	3700 3550 3450 3550
+Wire Wire Line
+	3450 3550 3450 2850
+$Comp
+L Device:LED_RABG D-LED14
+U 1 1 5EA2BEC8
+P 4750 3350
+F 0 "D-LED14" H 4750 3847 50  0000 C CNN
+F 1 "LED_RABG" H 4750 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 4750 3300 50  0001 C CNN
+F 3 "~" H 4750 3300 50  0001 C CNN
+	1    4750 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4550 3350 4400 3350
+Wire Wire Line
+	4400 3350 4400 3000
+Wire Wire Line
+	4550 3150 4500 3150
+Wire Wire Line
+	4500 3150 4500 2900
+Wire Wire Line
+	4550 3550 4300 3550
+Wire Wire Line
+	4300 3550 4300 2850
+$Comp
+L Device:LED_RABG D-LED15
+U 1 1 5EA2BED4
+P 5600 3350
+F 0 "D-LED15" H 5600 3847 50  0000 C CNN
+F 1 "LED_RABG" H 5600 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 5600 3300 50  0001 C CNN
+F 3 "~" H 5600 3300 50  0001 C CNN
+	1    5600 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 3350 5250 3350
+Wire Wire Line
+	5250 3350 5250 3000
+Wire Wire Line
+	5400 3150 5350 3150
+Wire Wire Line
+	5350 3150 5350 2900
+Wire Wire Line
+	5400 3550 5150 3550
+Wire Wire Line
+	5150 3550 5150 2850
+$Comp
+L Device:LED_RABG D-LED16
+U 1 1 5EA2BEE0
+P 6450 3350
+F 0 "D-LED16" H 6450 3847 50  0000 C CNN
+F 1 "LED_RABG" H 6450 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 6450 3300 50  0001 C CNN
+F 3 "~" H 6450 3300 50  0001 C CNN
+	1    6450 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 3350 6100 3350
+Wire Wire Line
+	6100 3350 6100 3000
+Wire Wire Line
+	6250 3150 6200 3150
+Wire Wire Line
+	6200 3150 6200 2900
+Wire Wire Line
+	6250 3550 6000 3550
+Wire Wire Line
+	6000 3550 6000 2850
+$Comp
+L Device:LED_RABG D-LED17
+U 1 1 5EA2BEEC
+P 7300 3350
+F 0 "D-LED17" H 7300 3847 50  0000 C CNN
+F 1 "LED_RABG" H 7300 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 7300 3300 50  0001 C CNN
+F 3 "~" H 7300 3300 50  0001 C CNN
+	1    7300 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 3350 6950 3350
+Wire Wire Line
+	6950 3350 6950 3000
+Wire Wire Line
+	7100 3150 7050 3150
+Wire Wire Line
+	7050 3150 7050 2900
+Wire Wire Line
+	7100 3550 6850 3550
+Wire Wire Line
+	6850 3550 6850 2850
+$Comp
+L Device:LED_RABG D-LED18
+U 1 1 5EA2BEF8
+P 8150 3350
+F 0 "D-LED18" H 8150 3847 50  0000 C CNN
+F 1 "LED_RABG" H 8150 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 8150 3300 50  0001 C CNN
+F 3 "~" H 8150 3300 50  0001 C CNN
+	1    8150 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 3350 7800 3350
+Wire Wire Line
+	7800 3350 7800 3000
+Wire Wire Line
+	7950 3150 7900 3150
+Wire Wire Line
+	7900 3150 7900 2900
+Wire Wire Line
+	7950 3550 7700 3550
+Wire Wire Line
+	7700 3550 7700 2850
+$Comp
+L Device:LED_RABG D-LED19
+U 1 1 5EA2BF04
+P 9000 3350
+F 0 "D-LED19" H 9000 3847 50  0000 C CNN
+F 1 "LED_RABG" H 9000 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9000 3300 50  0001 C CNN
+F 3 "~" H 9000 3300 50  0001 C CNN
+	1    9000 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 3350 8650 3350
+Wire Wire Line
+	8650 3350 8650 3000
+Wire Wire Line
+	8800 3150 8750 3150
+Wire Wire Line
+	8750 3150 8750 2900
+Wire Wire Line
+	8800 3550 8550 3550
+Wire Wire Line
+	8550 3550 8550 2850
+$Comp
+L Device:LED_RABG D-LED20
+U 1 1 5EA2BF10
+P 9850 3350
+F 0 "D-LED20" H 9850 3847 50  0000 C CNN
+F 1 "LED_RABG" H 9850 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9850 3300 50  0001 C CNN
+F 3 "~" H 9850 3300 50  0001 C CNN
+	1    9850 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 3350 9500 3350
+Wire Wire Line
+	9500 3350 9500 3000
+Wire Wire Line
+	9650 3150 9600 3150
+Wire Wire Line
+	9600 3150 9600 2900
+Wire Wire Line
+	9650 3550 9400 3550
+Wire Wire Line
+	9400 3550 9400 2850
+$Comp
+L Device:LED_RABG D-LED21
+U 1 1 5EA2BF1C
+P 10700 3350
+F 0 "D-LED21" H 10700 3847 50  0000 C CNN
+F 1 "LED_RABG" H 10700 3756 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 10700 3300 50  0001 C CNN
+F 3 "~" H 10700 3300 50  0001 C CNN
+	1    10700 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10500 3350 10350 3350
+Wire Wire Line
+	10350 3350 10350 3000
+Wire Wire Line
+	10500 3150 10450 3150
+Wire Wire Line
+	10450 3150 10450 2900
+Wire Wire Line
+	10500 3550 10250 3550
+Wire Wire Line
+	10250 3550 10250 2850
+Wire Wire Line
+	1850 3000 2700 3000
+Connection ~ 2700 3000
+Wire Wire Line
+	2700 3000 3550 3000
+Connection ~ 3550 3000
+Wire Wire Line
+	3550 3000 4400 3000
+Connection ~ 4400 3000
+Wire Wire Line
+	4400 3000 5250 3000
+Connection ~ 5250 3000
+Wire Wire Line
+	5250 3000 6100 3000
+Connection ~ 6100 3000
+Wire Wire Line
+	6100 3000 6950 3000
+Connection ~ 6950 3000
+Wire Wire Line
+	6950 3000 7800 3000
+Connection ~ 7800 3000
+Wire Wire Line
+	7800 3000 8650 3000
+Connection ~ 8650 3000
+Wire Wire Line
+	8650 3000 9500 3000
+Connection ~ 9500 3000
+Wire Wire Line
+	9500 3000 10350 3000
+Wire Wire Line
+	1950 2900 2800 2900
+Connection ~ 2800 2900
+Wire Wire Line
+	2800 2900 3650 2900
+Connection ~ 3650 2900
+Wire Wire Line
+	3650 2900 4500 2900
+Connection ~ 4500 2900
+Wire Wire Line
+	4500 2900 5350 2900
+Connection ~ 5350 2900
+Wire Wire Line
+	5350 2900 6200 2900
+Connection ~ 6200 2900
+Wire Wire Line
+	6200 2900 7050 2900
+Connection ~ 7050 2900
+Wire Wire Line
+	7050 2900 7900 2900
+Connection ~ 7900 2900
+Wire Wire Line
+	7900 2900 8750 2900
+Connection ~ 8750 2900
+Wire Wire Line
+	8750 2900 9600 2900
+Connection ~ 9600 2900
+Wire Wire Line
+	9600 2900 10450 2900
+Wire Wire Line
+	10250 2850 9400 2850
+Connection ~ 2600 2850
+Wire Wire Line
+	2600 2850 1750 2850
+Connection ~ 3450 2850
+Wire Wire Line
+	3450 2850 2600 2850
+Connection ~ 4300 2850
+Wire Wire Line
+	4300 2850 3450 2850
+Connection ~ 5150 2850
+Wire Wire Line
+	5150 2850 4300 2850
+Connection ~ 6000 2850
+Wire Wire Line
+	6000 2850 5150 2850
+Connection ~ 6850 2850
+Wire Wire Line
+	6850 2850 6000 2850
+Connection ~ 7700 2850
+Wire Wire Line
+	7700 2850 6850 2850
+Connection ~ 8550 2850
+Wire Wire Line
+	8550 2850 7700 2850
+Connection ~ 9400 2850
+Wire Wire Line
+	9400 2850 8550 2850
+$Comp
+L Device:LED_RABG D-LED0
+U 1 1 5EA5B98E
+P 2200 2450
+F 0 "D-LED0" H 2200 2947 50  0000 C CNN
+F 1 "LED_RABG" H 2200 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 2200 2400 50  0001 C CNN
+F 3 "~" H 2200 2400 50  0001 C CNN
+	1    2200 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 2450 1850 2450
+Wire Wire Line
+	1850 2450 1850 2100
+Wire Wire Line
+	2000 2250 1950 2250
+Wire Wire Line
+	1950 2250 1950 2000
+Wire Wire Line
+	2000 2650 1750 2650
+Wire Wire Line
+	1750 2650 1750 1950
+$Comp
+L Device:LED_RABG D-LED1
+U 1 1 5EA5B99A
+P 3050 2450
+F 0 "D-LED1" H 3050 2947 50  0000 C CNN
+F 1 "LED_RABG" H 3050 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3050 2400 50  0001 C CNN
+F 3 "~" H 3050 2400 50  0001 C CNN
+	1    3050 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 2450 2700 2450
+Wire Wire Line
+	2700 2450 2700 2100
+Wire Wire Line
+	2850 2250 2800 2250
+Wire Wire Line
+	2800 2250 2800 2000
+Wire Wire Line
+	2850 2650 2600 2650
+Wire Wire Line
+	2600 2650 2600 1950
+$Comp
+L Device:LED_RABG D-LED2
+U 1 1 5EA5B9A6
+P 3900 2450
+F 0 "D-LED2" H 3900 2947 50  0000 C CNN
+F 1 "LED_RABG" H 3900 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 3900 2400 50  0001 C CNN
+F 3 "~" H 3900 2400 50  0001 C CNN
+	1    3900 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 2450 3550 2450
+Wire Wire Line
+	3550 2450 3550 2100
+Wire Wire Line
+	3700 2250 3650 2250
+Wire Wire Line
+	3650 2250 3650 2000
+Wire Wire Line
+	3700 2650 3450 2650
+Wire Wire Line
+	3450 2650 3450 1950
+$Comp
+L Device:LED_RABG D-LED3
+U 1 1 5EA5B9B2
+P 4750 2450
+F 0 "D-LED3" H 4750 2947 50  0000 C CNN
+F 1 "LED_RABG" H 4750 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 4750 2400 50  0001 C CNN
+F 3 "~" H 4750 2400 50  0001 C CNN
+	1    4750 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4550 2450 4400 2450
+Wire Wire Line
+	4400 2450 4400 2100
+Wire Wire Line
+	4550 2250 4500 2250
+Wire Wire Line
+	4500 2250 4500 2000
+Wire Wire Line
+	4550 2650 4300 2650
+Wire Wire Line
+	4300 2650 4300 1950
+$Comp
+L Device:LED_RABG D-LED4
+U 1 1 5EA5B9BE
+P 5600 2450
+F 0 "D-LED4" H 5600 2947 50  0000 C CNN
+F 1 "LED_RABG" H 5600 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 5600 2400 50  0001 C CNN
+F 3 "~" H 5600 2400 50  0001 C CNN
+	1    5600 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 2450 5250 2450
+Wire Wire Line
+	5250 2450 5250 2100
+Wire Wire Line
+	5400 2250 5350 2250
+Wire Wire Line
+	5350 2250 5350 2000
+Wire Wire Line
+	5400 2650 5150 2650
+Wire Wire Line
+	5150 2650 5150 1950
+$Comp
+L Device:LED_RABG D-LED5
+U 1 1 5EA5B9CA
+P 6450 2450
+F 0 "D-LED5" H 6450 2947 50  0000 C CNN
+F 1 "LED_RABG" H 6450 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 6450 2400 50  0001 C CNN
+F 3 "~" H 6450 2400 50  0001 C CNN
+	1    6450 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 2450 6100 2450
+Wire Wire Line
+	6100 2450 6100 2100
+Wire Wire Line
+	6250 2250 6200 2250
+Wire Wire Line
+	6200 2250 6200 2000
+Wire Wire Line
+	6250 2650 6000 2650
+Wire Wire Line
+	6000 2650 6000 1950
+$Comp
+L Device:LED_RABG D-LED6
+U 1 1 5EA5B9D6
+P 7300 2450
+F 0 "D-LED6" H 7300 2947 50  0000 C CNN
+F 1 "LED_RABG" H 7300 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 7300 2400 50  0001 C CNN
+F 3 "~" H 7300 2400 50  0001 C CNN
+	1    7300 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 2450 6950 2450
+Wire Wire Line
+	6950 2450 6950 2100
+Wire Wire Line
+	7100 2250 7050 2250
+Wire Wire Line
+	7050 2250 7050 2000
+Wire Wire Line
+	7100 2650 6850 2650
+Wire Wire Line
+	6850 2650 6850 1950
+$Comp
+L Device:LED_RABG D-LED7
+U 1 1 5EA5B9E2
+P 8150 2450
+F 0 "D-LED7" H 8150 2947 50  0000 C CNN
+F 1 "LED_RABG" H 8150 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 8150 2400 50  0001 C CNN
+F 3 "~" H 8150 2400 50  0001 C CNN
+	1    8150 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 2450 7800 2450
+Wire Wire Line
+	7800 2450 7800 2100
+Wire Wire Line
+	7950 2250 7900 2250
+Wire Wire Line
+	7900 2250 7900 2000
+Wire Wire Line
+	7950 2650 7700 2650
+Wire Wire Line
+	7700 2650 7700 1950
+$Comp
+L Device:LED_RABG D-LED8
+U 1 1 5EA5B9EE
+P 9000 2450
+F 0 "D-LED8" H 9000 2947 50  0000 C CNN
+F 1 "LED_RABG" H 9000 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9000 2400 50  0001 C CNN
+F 3 "~" H 9000 2400 50  0001 C CNN
+	1    9000 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 2450 8650 2450
+Wire Wire Line
+	8650 2450 8650 2100
+Wire Wire Line
+	8800 2250 8750 2250
+Wire Wire Line
+	8750 2250 8750 2000
+Wire Wire Line
+	8800 2650 8550 2650
+Wire Wire Line
+	8550 2650 8550 1950
+$Comp
+L Device:LED_RABG D-LED9
+U 1 1 5EA5B9FA
+P 9850 2450
+F 0 "D-LED9" H 9850 2947 50  0000 C CNN
+F 1 "LED_RABG" H 9850 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 9850 2400 50  0001 C CNN
+F 3 "~" H 9850 2400 50  0001 C CNN
+	1    9850 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 2450 9500 2450
+Wire Wire Line
+	9500 2450 9500 2100
+Wire Wire Line
+	9650 2250 9600 2250
+Wire Wire Line
+	9600 2250 9600 2000
+Wire Wire Line
+	9650 2650 9400 2650
+Wire Wire Line
+	9400 2650 9400 1950
+$Comp
+L Device:LED_RABG D-LED10
+U 1 1 5EA5BA06
+P 10700 2450
+F 0 "D-LED10" H 10700 2947 50  0000 C CNN
+F 1 "LED_RABG" H 10700 2856 50  0000 C CNN
+F 2 "keyfoot:rev_mountLED_SMD_RGB" H 10700 2400 50  0001 C CNN
+F 3 "~" H 10700 2400 50  0001 C CNN
+	1    10700 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10500 2450 10350 2450
+Wire Wire Line
+	10350 2450 10350 2100
+Wire Wire Line
+	10500 2250 10450 2250
+Wire Wire Line
+	10450 2250 10450 2000
+Wire Wire Line
+	10500 2650 10250 2650
+Wire Wire Line
+	10250 2650 10250 1950
+Wire Wire Line
+	1300 2100 1850 2100
+Connection ~ 1850 2100
+Wire Wire Line
+	1850 2100 2700 2100
+Connection ~ 2700 2100
+Wire Wire Line
+	2700 2100 3550 2100
+Connection ~ 3550 2100
+Wire Wire Line
+	3550 2100 4400 2100
+Connection ~ 4400 2100
+Wire Wire Line
+	4400 2100 5250 2100
+Connection ~ 5250 2100
+Wire Wire Line
+	5250 2100 6100 2100
+Connection ~ 6100 2100
+Wire Wire Line
+	6100 2100 6950 2100
+Connection ~ 6950 2100
+Wire Wire Line
+	6950 2100 7800 2100
+Connection ~ 7800 2100
+Wire Wire Line
+	7800 2100 8650 2100
+Connection ~ 8650 2100
+Wire Wire Line
+	8650 2100 9500 2100
+Connection ~ 9500 2100
+Wire Wire Line
+	9500 2100 10350 2100
+Wire Wire Line
+	1300 2000 1950 2000
+Connection ~ 1950 2000
+Wire Wire Line
+	1950 2000 2800 2000
+Connection ~ 2800 2000
+Wire Wire Line
+	2800 2000 3650 2000
+Connection ~ 3650 2000
+Wire Wire Line
+	3650 2000 4500 2000
+Connection ~ 4500 2000
+Wire Wire Line
+	4500 2000 5350 2000
+Connection ~ 5350 2000
+Wire Wire Line
+	5350 2000 6200 2000
+Connection ~ 6200 2000
+Wire Wire Line
+	6200 2000 7050 2000
+Connection ~ 7050 2000
+Wire Wire Line
+	7050 2000 7900 2000
+Connection ~ 7900 2000
+Wire Wire Line
+	7900 2000 8750 2000
+Connection ~ 8750 2000
+Wire Wire Line
+	8750 2000 9600 2000
+Connection ~ 9600 2000
+Wire Wire Line
+	9600 2000 10450 2000
+Wire Wire Line
+	10250 1950 9400 1950
+Connection ~ 1750 1950
+Wire Wire Line
+	1750 1950 1300 1950
+Connection ~ 2600 1950
+Wire Wire Line
+	2600 1950 1750 1950
+Connection ~ 3450 1950
+Wire Wire Line
+	3450 1950 2600 1950
+Connection ~ 4300 1950
+Wire Wire Line
+	4300 1950 3450 1950
+Connection ~ 5150 1950
+Wire Wire Line
+	5150 1950 4300 1950
+Connection ~ 6000 1950
+Wire Wire Line
+	6000 1950 5150 1950
+Connection ~ 6850 1950
+Wire Wire Line
+	6850 1950 6000 1950
+Connection ~ 7700 1950
+Wire Wire Line
+	7700 1950 6850 1950
+Connection ~ 8550 1950
+Wire Wire Line
+	8550 1950 7700 1950
+Connection ~ 9400 1950
+Wire Wire Line
+	9400 1950 8550 1950
+Wire Wire Line
+	2400 5150 2400 4250
+Connection ~ 2400 2450
+Wire Wire Line
+	2400 2450 2400 1700
+Connection ~ 2400 3350
+Wire Wire Line
+	2400 3350 2400 2450
+Connection ~ 2400 4250
+Wire Wire Line
+	2400 4250 2400 3350
+Wire Wire Line
+	3250 5150 3250 4250
+Connection ~ 3250 2450
+Wire Wire Line
+	3250 2450 3250 1700
+Connection ~ 3250 3350
+Wire Wire Line
+	3250 3350 3250 2450
+Connection ~ 3250 4250
+Wire Wire Line
+	3250 4250 3250 3350
+Wire Wire Line
+	4100 1700 4100 2450
+Connection ~ 4100 2450
+Wire Wire Line
+	4100 2450 4100 3350
+Connection ~ 4100 3350
+Wire Wire Line
+	4100 3350 4100 4250
+Connection ~ 4100 4250
+Wire Wire Line
+	4100 4250 4100 5150
+Wire Wire Line
+	4950 1700 4950 2450
+Connection ~ 4950 2450
+Wire Wire Line
+	4950 2450 4950 3350
+Connection ~ 4950 3350
+Wire Wire Line
+	4950 3350 4950 4250
+Connection ~ 4950 4250
+Wire Wire Line
+	4950 4250 4950 5150
+Wire Wire Line
+	5800 5150 5800 4250
+Connection ~ 5800 2450
+Wire Wire Line
+	5800 2450 5800 1700
+Connection ~ 5800 3350
+Wire Wire Line
+	5800 3350 5800 2450
+Connection ~ 5800 4250
+Wire Wire Line
+	5800 4250 5800 3350
+Wire Wire Line
+	6650 1700 6650 2450
+Connection ~ 6650 2450
+Wire Wire Line
+	6650 2450 6650 3350
+Connection ~ 6650 3350
+Wire Wire Line
+	6650 3350 6650 4250
+Connection ~ 6650 4250
+Wire Wire Line
+	6650 4250 6650 5150
+Wire Wire Line
+	7500 1700 7500 2450
+Connection ~ 7500 2450
+Wire Wire Line
+	7500 2450 7500 3350
+Connection ~ 7500 3350
+Wire Wire Line
+	7500 3350 7500 4250
+Connection ~ 7500 4250
+Wire Wire Line
+	7500 4250 7500 5150
+Wire Wire Line
+	8350 5150 8350 4250
+Connection ~ 8350 2450
+Wire Wire Line
+	8350 2450 8350 1700
+Connection ~ 8350 3350
+Wire Wire Line
+	8350 3350 8350 2450
+Connection ~ 8350 4250
+Wire Wire Line
+	8350 4250 8350 3350
+Wire Wire Line
+	9200 1700 9200 2450
+Connection ~ 9200 2450
+Wire Wire Line
+	9200 2450 9200 3350
+Connection ~ 9200 3350
+Wire Wire Line
+	9200 3350 9200 4250
+Connection ~ 9200 4250
+Wire Wire Line
+	9200 4250 9200 5150
+Wire Wire Line
+	10050 5150 10050 4250
+Connection ~ 10050 2450
+Wire Wire Line
+	10050 2450 10050 1700
+Connection ~ 10050 3350
+Wire Wire Line
+	10050 3350 10050 2450
+Connection ~ 10050 4250
+Wire Wire Line
+	10050 4250 10050 3350
+Wire Wire Line
+	10900 1700 10900 2450
+Connection ~ 10900 2450
+Wire Wire Line
+	10900 2450 10900 3350
+Connection ~ 10900 3350
+Wire Wire Line
+	10900 3350 10900 4250
+Connection ~ 10900 4250
+Wire Wire Line
+	10900 4250 10900 5150
+Text HLabel 1300 3000 0    50   Input ~ 0
+SW7
+Text HLabel 1300 2900 0    50   Input ~ 0
+SW8
+Text HLabel 1300 2850 1    50   Input ~ 0
+SW9
+Text HLabel 1300 2100 0    50   Input ~ 0
+SW10
+Text HLabel 1300 2000 0    50   Input ~ 0
+SW11
+Text HLabel 1300 1950 1    50   Input ~ 0
+SW12
+Wire Wire Line
+	1300 4800 1850 4800
+Wire Wire Line
+	1300 4700 1950 4700
+Wire Wire Line
+	1750 4650 1300 4650
+Text HLabel 1300 4800 0    50   Input ~ 0
+SW1
+Text HLabel 1300 4700 0    50   Input ~ 0
+SW2
+Text HLabel 1300 4650 1    50   Input ~ 0
+SW3
+Wire Wire Line
+	1300 3900 1850 3900
+Wire Wire Line
+	1300 3800 1950 3800
+Wire Wire Line
+	1750 3750 1300 3750
+Text HLabel 1300 3900 0    50   Input ~ 0
+SW4
+Text HLabel 1300 3800 0    50   Input ~ 0
+SW5
+Text HLabel 1300 3750 1    50   Input ~ 0
+SW6
+Connection ~ 1750 4650
+Connection ~ 1850 4800
+Connection ~ 1950 4700
+Connection ~ 1750 3750
+Connection ~ 1850 3900
+Connection ~ 1950 3800
+Connection ~ 1750 2850
+Connection ~ 1850 3000
+Connection ~ 1950 2900
+Text HLabel 2400 1700 0    50   Input ~ 0
+CS1
+Text HLabel 3250 1700 0    50   Input ~ 0
+CS2
+Text HLabel 4100 1700 0    50   Input ~ 0
+CS3
+Text HLabel 4950 1700 0    50   Input ~ 0
+CS4
+Text HLabel 5800 1700 0    50   Input ~ 0
+CS5
+Text HLabel 6650 1700 0    50   Input ~ 0
+CS6
+Text HLabel 7500 1700 0    50   Input ~ 0
+CS7
+Text HLabel 8350 1700 0    50   Input ~ 0
+CS8
+Text HLabel 9200 1700 0    50   Input ~ 0
+CS9
+Text HLabel 10050 1700 0    50   Input ~ 0
+CS10
+Text HLabel 10900 1700 0    50   Input ~ 0
+CS11
+$EndSCHEMATC

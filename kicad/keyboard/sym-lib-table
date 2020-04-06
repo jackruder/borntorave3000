@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name keycomp)(type Legacy)(uri /home/jack/borntorave3000/kicad/keyboard/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+)

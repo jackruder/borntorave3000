@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name keylib)(type KiCad)(uri /home/jack/borntorave3000/kicad/keyboard/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name keyfoot)(type KiCad)(uri /home/jack/borntorave3000/kicad/keyboard/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name switches)(type KiCad)(uri /home/jack/borntorave3000/kicad/keyboard/keebs.pretty-master/keebs.pretty-master)(options "")(descr ""))
+  (lib (name blue)(type KiCad)(uri /home/jack/borntorave3000/kicad/keyboard/2829)(options "")(descr ""))
+)
